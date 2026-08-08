@@ -1,0 +1,42 @@
+{
+  "weeklyActionPlan": {
+    "studyHoursPerDay": 2,
+    "schedule": [
+      {
+        "day": "Monday",
+        "activity": "Python Functions",
+        "hours": 2
+      },
+      {
+        "day": "Tuesday",
+        "activity": "Python Practice Problems",
+        "hours": 2
+      },
+      {
+        "day": "Wednesday",
+        "activity": "SQL Fundamentals",
+        "hours": 2
+      },
+      {
+        "day": "Thursday",
+        "activity": "SQL Practice",
+        "hours": 2
+      },
+      {
+        "day": "Friday",
+        "activity": "Statistics Fundamentals",
+        "hours": 2
+      },
+      {
+        "day": "Saturday",
+        "activity": "Mini Project",
+        "hours": 3
+      },
+      {
+        "day": "Sunday",
+        "activity": "Revision and Self Assessment",
+        "hours": 2
+      }
+    ]
+  }
+}
