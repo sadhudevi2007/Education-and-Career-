@@ -1,0 +1,25 @@
+{
+  "careerReadiness": {
+    "targetCareer": "Data Scientist",
+    "score": 56,
+    "maximumScore": 100,
+    "category": "Progressing",
+    "breakdown": {
+      "academicReadiness": 16,
+      "technicalSkills": 12,
+      "projects": 8,
+      "certifications": 5,
+      "communication": 7,
+      "portfolio": 5,
+      "interviewReadiness": 3
+    },
+    "nextPriority": [
+      "Improve Python",
+      "Learn SQL",
+      "Strengthen statistics",
+      "Build data science projects",
+      "Create a GitHub portfolio"
+    ],
+    "disclaimer": "This is an AI-generated guidance indicator and not an official employability score."
+  }
+}
