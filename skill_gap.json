@@ -1,0 +1,49 @@
+{
+  "skillGapAnalysis": {
+    "targetCareer": "Data Scientist",
+    "skills": [
+      {
+        "skill": "Python",
+        "currentLevel": 2,
+        "requiredLevel": 4,
+        "gap": "High",
+        "priority": "Foundation"
+      },
+      {
+        "skill": "SQL",
+        "currentLevel": 1,
+        "requiredLevel": 4,
+        "gap": "High",
+        "priority": "Foundation"
+      },
+      {
+        "skill": "Statistics",
+        "currentLevel": 2,
+        "requiredLevel": 4,
+        "gap": "Medium",
+        "priority": "Core"
+      },
+      {
+        "skill": "Machine Learning",
+        "currentLevel": 0,
+        "requiredLevel": 4,
+        "gap": "High",
+        "priority": "Core"
+      },
+      {
+        "skill": "Data Visualization",
+        "currentLevel": 1,
+        "requiredLevel": 3,
+        "gap": "Medium",
+        "priority": "Core"
+      },
+      {
+        "skill": "Communication",
+        "currentLevel": 3,
+        "requiredLevel": 4,
+        "gap": "Low",
+        "priority": "Differentiator"
+      }
+    ]
+  }
+}
