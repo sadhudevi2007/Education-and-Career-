@@ -1,0 +1,38 @@
+{
+  "recommendedProjects": [
+    {
+      "title": "Student Result Analyzer",
+      "difficulty": "Beginner",
+      "technologies": [
+        "Python",
+        "Pandas"
+      ],
+      "objective": "Analyze student marks and generate performance insights.",
+      "portfolioValue": "Medium"
+    },
+    {
+      "title": "Sales Data Analysis",
+      "difficulty": "Intermediate",
+      "technologies": [
+        "Python",
+        "Pandas",
+        "Matplotlib",
+        "SQL"
+      ],
+      "objective": "Analyze sales data and identify business trends.",
+      "portfolioValue": "High"
+    },
+    {
+      "title": "Customer Churn Prediction",
+      "difficulty": "Advanced",
+      "technologies": [
+        "Python",
+        "Pandas",
+        "Scikit-learn",
+        "Machine Learning"
+      ],
+      "objective": "Predict customers who may stop using a service.",
+      "portfolioValue": "High"
+    }
+  ]
+}
