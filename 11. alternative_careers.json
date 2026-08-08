@@ -1,0 +1,34 @@
+{
+  "alternativeCareerPaths": [
+    {
+      "career": "Data Analyst",
+      "relationship": "Entry pathway toward Data Science",
+      "requiredSkills": [
+        "SQL",
+        "Excel",
+        "Python",
+        "Data Visualization"
+      ]
+    },
+    {
+      "career": "Business Intelligence Analyst",
+      "relationship": "Related data-focused career",
+      "requiredSkills": [
+        "SQL",
+        "Power BI",
+        "Data Visualization",
+        "Business Analysis"
+      ]
+    },
+    {
+      "career": "Machine Learning Engineer",
+      "relationship": "Advanced technical pathway",
+      "requiredSkills": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "Model Deployment"
+      ]
+    }
+  ]
+}
