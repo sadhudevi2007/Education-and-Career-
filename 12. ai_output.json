@@ -1,0 +1,25 @@
+{
+  "aspiraPathResult": {
+    "careerGoal": "Data Scientist",
+    "feasibility": "Achievable With Development",
+    "currentStage": "Progressing",
+    "readinessScore": 56,
+    "topSkillGaps": [
+      "Python",
+      "SQL",
+      "Statistics",
+      "Machine Learning"
+    ],
+    "recommendedPath": "Affordable Skill-First Pathway",
+    "immediateActions": [
+      "Start Python fundamentals",
+      "Learn SQL basics",
+      "Practice statistics",
+      "Build a beginner data project"
+    ],
+    "sixMonthGoal": "Build strong Python, SQL and data analysis foundations with at least two projects.",
+    "oneYearGoal": "Develop machine learning skills and build a portfolio.",
+    "twoYearGoal": "Become internship/job ready for entry-level data-related roles.",
+    "importantNote": "Recommendations are personalized AI guidance and do not guarantee employment, admission, salary or certification."
+  }
+}
