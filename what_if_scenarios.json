@@ -1,0 +1,31 @@
+{
+  "whatIfScenarios": [
+    {
+      "scenario": "Budget Reduced",
+      "change": {
+        "educationBudget": 5000
+      },
+      "impact": "Paid courses may become less suitable.",
+      "recommendedAction": "Use free learning resources, open-source projects and low-cost certifications.",
+      "careerGoalStatus": "Still achievable with possible timeline adjustment."
+    },
+    {
+      "scenario": "Reduced Study Time",
+      "change": {
+        "studyHoursPerDay": 1
+      },
+      "impact": "Learning progress may become slower.",
+      "recommendedAction": "Prioritize foundation and core skills before advanced topics.",
+      "careerGoalStatus": "Achievable with a longer timeline."
+    },
+    {
+      "scenario": "Cannot Relocate",
+      "change": {
+        "willingToRelocate": false
+      },
+      "impact": "Some location-dependent opportunities may not be available.",
+      "recommendedAction": "Focus on remote internships, online learning and local opportunities.",
+      "careerGoalStatus": "Still achievable."
+    }
+  ]
+}
