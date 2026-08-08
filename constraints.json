@@ -1,0 +1,25 @@
+{
+  "constraints": {
+    "financial": {
+      "educationBudget": 10000,
+      "monthlyLearningBudget": 1000,
+      "needsFinancialAssistance": true,
+      "prefersFreeResources": true
+    },
+    "time": {
+      "studyHoursPerDay": 2,
+      "studyDaysPerWeek": 6,
+      "targetCompletionMonths": 24
+    },
+    "location": {
+      "preferredLocation": "India",
+      "willingToRelocate": false,
+      "preferredLearningMode": "Online"
+    },
+    "academic": {
+      "currentQualification": "B.Sc Computer Science",
+      "academicPercentage": 83,
+      "academicConcern": "Needs stronger mathematics and statistics foundation"
+    }
+  }
+}
