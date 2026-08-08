@@ -1,0 +1,86 @@
+
+{
+  "learningRoadmap": {
+    "targetCareer": "Data Scientist",
+    "duration": "24 months",
+    "phases": [
+      {
+        "phase": 1,
+        "duration": "0-3 months",
+        "title": "Foundation",
+        "skills": [
+          "Python",
+          "SQL",
+          "Basic Statistics"
+        ],
+        "projects": [
+          "Student Result Analyzer",
+          "Expense Tracker"
+        ]
+      },
+      {
+        "phase": 2,
+        "duration": "4-6 months",
+        "title": "Core Data Skills",
+        "skills": [
+          "Pandas",
+          "NumPy",
+          "Data Cleaning",
+          "Data Visualization"
+        ],
+        "projects": [
+          "Sales Data Analysis",
+          "Student Performance Dashboard"
+        ]
+      },
+      {
+        "phase": 3,
+        "duration": "7-12 months",
+        "title": "Machine Learning",
+        "skills": [
+          "Supervised Learning",
+          "Unsupervised Learning",
+          "Model Evaluation",
+          "Feature Engineering"
+        ],
+        "projects": [
+          "House Price Prediction",
+          "Customer Churn Prediction"
+        ]
+      },
+      {
+        "phase": 4,
+        "duration": "13-18 months",
+        "title": "Advanced Skills",
+        "skills": [
+          "Advanced Machine Learning",
+          "Model Deployment",
+          "Generative AI Basics"
+        ],
+        "projects": [
+          "AI Recommendation System",
+          "End-to-End ML Application"
+        ]
+      },
+      {
+        "phase": 5,
+        "duration": "19-24 months",
+        "title": "Career Preparation",
+        "skills": [
+          "Resume Building",
+          "GitHub Portfolio",
+          "Interview Preparation",
+          "Communication"
+        ],
+        "activities": [
+          "Build portfolio",
+          "Apply for internships",
+          "Practice technical interviews",
+          "Apply for entry-level roles"
+        ]
+      }
+    ]
+  }
+}
+
+
