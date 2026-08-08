@@ -1,0 +1,39 @@
+{
+  "studentProfile": {
+    "studentId": "STU001",
+    "name": "Demo Student",
+    "age": 21,
+    "location": "Andhra Pradesh, India",
+    "education": {
+      "qualification": "B.Sc Computer Science",
+      "currentYear": "Final Year",
+      "percentage": 83,
+      "subjects": [
+        "Programming",
+        "Database Management Systems",
+        "Data Structures",
+        "Web Technologies"
+      ]
+    },
+    "skills": {
+      "C": 3,
+      "Java": 2,
+      "Python": 2,
+      "SQL": 1,
+      "WebDevelopment": 3,
+      "DataStructures": 2,
+      "Communication": 3
+    },
+    "certifications": [
+      "C Essentials 1",
+      "C Essentials 2",
+      "Python Essentials 1",
+      "Introduction to HTML"
+    ],
+    "projects": [
+      "Student Management System",
+      "Weather Forecast Report",
+      "Task Management System"
+    ]
+  }
+}
